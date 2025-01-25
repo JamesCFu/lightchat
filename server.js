@@ -519,5 +519,5 @@ function generateInviteCode() {
 
 function getInviteLinkFromRoomName(rn) {
   var index = roomNames.indexOf(rn);
-  return "https://lightchat.ml/invite/" + roomInviteCodes[index];
+  return "https://chtrmmmm.netlify.app/invite/" + roomInviteCodes[index];
 }
